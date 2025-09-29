@@ -1,9 +1,17 @@
-# React TypeScript Starter Pack
+# ToDo App project
 
-To use this template click `Use this template`
+This application was created using technologies such as React, TypeScript, SCSS, and Fetch API. This application is a manageable to-do list: users can add/delete/change their tasks, as well as mark them as completed. To add a task, users can simply type it in using the keyboard; to change a task, they can click on it with the mouse (or touchscreen on smartphones).
 
-### Available Scripts
+# To run locally, follow these 3 steps:
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+1. Clone the repository:
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+`git clone https://github.com/your-username/project-name.git` and then `cd project-name`
+
+2. Install dependencies:
+
+`npm install` or `yarn install`
+
+3. Run the project locally:
+
+`npm start` or `yarn start`
